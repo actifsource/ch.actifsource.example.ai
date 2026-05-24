@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="c72ddd52-57a8-11f1-ae2f-8bdcac90004f">
+  <owns predicate="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="b06f2a84-57ad-11f1-963f-d773341aaea3" type="resource" guid="b06edc60-57ad-11f1-963f-d773341aaea3" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb93cc0c-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="38b10ea6-0694-11f1-b779-07ee3d005168" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb93cc0d-57a8-11f1-ae2f-8bdcac90004f" type="literal">exampleResource</object>
+  </predicate>
+  <predicate guid="3d47d3fe-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="b06f2a84-57ad-11f1-963f-d773341aaea3">
+      <resource guid="b06edc60-57ad-11f1-963f-d773341aaea3">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="b06f0372-57ad-11f1-963f-d773341aaea3" type="resource" guid="360ec494-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3c0568eb-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="b20b4e55-57ad-11f1-963f-d773341aaea3" type="literal">ch.actifsource.example.ai.mcp.aspect.ExampleResourceAspect</object>
+        </predicate>
+        <predicate guid="3c91f17c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="b06f0373-57ad-11f1-963f-d773341aaea3" type="resource" guid="9891e905-069c-11f1-b779-07ee3d005168" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="d33f1a0a-f89c-11f0-a050-7146faad038e">
+    <object statement-guid="eb93f31f-57a8-11f1-ae2f-8bdcac90004f" type="literal">Example resource a placeholder description for a URI-addressable MCP resource exposed by this extension.</object>
+  </predicate>
+  <predicate guid="f8f3115a-069c-11f1-b779-07ee3d005168">
+    <object statement-guid="eb93f320-57a8-11f1-ae2f-8bdcac90004f" type="literal">example</object>
+  </predicate>
+  <predicate guid="f752c5ea-12ea-11f1-afa3-2f3c2b330309">
+    <object statement-guid="eb93f321-57a8-11f1-ae2f-8bdcac90004f" type="literal">false</object>
+  </predicate>
+</resource>
+

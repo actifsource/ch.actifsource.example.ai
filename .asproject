@@ -3,6 +3,7 @@
   <version format="5.6.0" />
   <resourcepaths>
     <path>asrc</path>
+    <builtin>ai</builtin>
     <builtin>codesnippet</builtin>
     <builtin>core</builtin>
     <builtin>diagram</builtin>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="c72ddd51-57a8-11f1-ae2f-8bdcac90004f">
+  <owns predicate="3075e728-2ea9-11f1-b98a-ab4ebdd40f0f">
+    <resource statement-guid="eb937de9-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="c72ddd54-57a8-11f1-ae2f-8bdcac90004f" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb9308b1-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="abd50777-0663-11f1-b779-07ee3d005168" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb9308b2-57a8-11f1-ae2f-8bdcac90004f" type="literal">examplePrompt</object>
+  </predicate>
+  <predicate guid="d33f1a0a-f89c-11f0-a050-7146faad038e">
+    <object statement-guid="eb932fc4-57a8-11f1-ae2f-8bdcac90004f" type="literal">Example prompt a placeholder description for a custom MCP prompt exposed by this extension.</object>
+  </predicate>
+  <predicate guid="d3b8bc1f-066c-11f1-b779-07ee3d005168">
+    <object statement-guid="eb932fc5-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="ee0649d4-066c-11f1-b779-07ee3d005168" />
+  </predicate>
+  <predicate guid="765cefe8-066d-11f1-b779-07ee3d005168">
+    <object statement-guid="eb9356d6-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="625b0517-066d-11f1-b779-07ee3d005168" />
+  </predicate>
+  <predicate guid="3075e728-2ea9-11f1-b98a-ab4ebdd40f0f">
+    <object statement-guid="eb937de9-57a8-11f1-ae2f-8bdcac90004f">
+      <resource guid="c72ddd54-57a8-11f1-ae2f-8bdcac90004f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="eb9356d8-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="654eac9a-29da-11f1-8755-f37e90840247" />
+        </predicate>
+        <predicate guid="6937f4fb-29da-11f1-8755-f37e90840247">
+          <object statement-guid="eb93a4fa-57a8-11f1-ae2f-8bdcac90004f" type="literal">Example prompt body a replace with the markdown content the LLM should receive when this prompt is loaded.</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+

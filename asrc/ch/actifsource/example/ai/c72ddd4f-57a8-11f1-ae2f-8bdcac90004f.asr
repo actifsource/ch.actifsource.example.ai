@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="c72ddd4f-57a8-11f1-ae2f-8bdcac90004f">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb91a918-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="d4ffaba8-f89b-11f0-a050-7146faad038e" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb91d029-57a8-11f1-ae2f-8bdcac90004f" type="literal">McpExample</object>
+  </predicate>
+  <predicate guid="44da5044-f89c-11f0-a050-7146faad038e">
+    <object statement-guid="eb92ba8d-57a8-11f1-ae2f-8bdcac90004f" type="aggregate" guid="c72ddd50-57a8-11f1-ae2f-8bdcac90004f" />
+    <object statement-guid="eb9308b3-57a8-11f1-ae2f-8bdcac90004f" type="aggregate" guid="c72ddd51-57a8-11f1-ae2f-8bdcac90004f" />
+    <object statement-guid="eb93cc0e-57a8-11f1-ae2f-8bdcac90004f" type="aggregate" guid="c72ddd52-57a8-11f1-ae2f-8bdcac90004f" />
+    <object statement-guid="eb944144-57a8-11f1-ae2f-8bdcac90004f" type="aggregate" guid="c72ddd53-57a8-11f1-ae2f-8bdcac90004f" />
+  </predicate>
+</resource>
+

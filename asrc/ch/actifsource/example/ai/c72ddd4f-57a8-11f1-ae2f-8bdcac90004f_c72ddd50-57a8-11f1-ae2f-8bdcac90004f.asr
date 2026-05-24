@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="c72ddd50-57a8-11f1-ae2f-8bdcac90004f">
+  <owns predicate="5947cb7f-29db-11f1-8755-f37e90840247">
+    <resource statement-guid="9acc4f1c-57af-11f1-963f-d773341aaea3" type="resource" guid="963fc219-57af-11f1-963f-d773341aaea3" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb92937b-57a8-11f1-ae2f-8bdcac90004f" type="resource" guid="25d0c230-f89c-11f0-a050-7146faad038e" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb92ba8c-57a8-11f1-ae2f-8bdcac90004f" type="literal">exampleTool</object>
+  </predicate>
+  <predicate guid="d33f1a0a-f89c-11f0-a050-7146faad038e">
+    <object statement-guid="eb92e19e-57a8-11f1-ae2f-8bdcac90004f" type="literal">Example tool a placeholder description for a custom MCP tool exposed by this extension.</object>
+  </predicate>
+  <predicate guid="5947cb7f-29db-11f1-8755-f37e90840247">
+    <object statement-guid="9acc4f1c-57af-11f1-963f-d773341aaea3">
+      <resource guid="963fc219-57af-11f1-963f-d773341aaea3">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="9acbb2db-57af-11f1-963f-d773341aaea3" type="resource" guid="654eac9a-29da-11f1-8755-f37e90840247" />
+        </predicate>
+        <predicate guid="6937f4fb-29da-11f1-8755-f37e90840247">
+          <object statement-guid="9acc4f1d-57af-11f1-963f-d773341aaea3" type="literal">{
+  "type": "object",
+  "properties": {
+    "resource_guid": {
+      "type": "string",
+      "description": "GUID of an Actifsource resource (UUID v1, e.g. 'a1b2c3d4-...')."
+    }
+  },
+  "required": ["resource_guid"]
+}</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="a319744c-37f7-11f1-9480-436879e0d623">
+    <object statement-guid="eb92e19f-57a8-11f1-ae2f-8bdcac90004f" type="literal">Use when you want a placeholder example of an MCP tool.</object>
+  </predicate>
+</resource>
+
