@@ -7,7 +7,7 @@ The functionality of the MCP Server can easily be extended by adding the built-i
 
 ![buildtin-ai](images/buildtin-ai.png)
 
-![mcp-example](mcp-example.png)
+![mcp-example](images/mcp-example.png)
 
 ![prompt](images/prompt.png)
 
